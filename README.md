@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, i'm Dzidula 👋</h1>
+<h1 align="center">Hi there, I'm Dzidula 👋</h1>
 
 
 ### 🚀About Me
-I am a motivated DevOps enthusiast with diverse tech expertise. Passionate about solving complex problems and collaborating effectively. Proactive and independent, I thrive in fast-paced environments. 
+I am a motivated DevOps enthusiast with diverse tech expertise. Hold a master's degree in Computer Systems Engineering and have been furthering my expertise in DevOps tools in pursuit of a role in this field. Passionate about solving complex problems and collaborating effectively. Proactive and independent, I thrive in fast-paced environments. 
 
 ### 💻 Skills
 - **Languages:**
