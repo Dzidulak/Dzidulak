@@ -16,5 +16,5 @@ I am a motivated DevOps enthusiast with diverse tech expertise. Hold a master's 
   - Agile Methodologies
 
 ### 📫 Get in contact
-[![LinkedIn contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzidula-keteku-379362183) 
+[![LinkedIn contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzidula-keteku) 
 
